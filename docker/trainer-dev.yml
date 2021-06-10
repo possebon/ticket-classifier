@@ -1,0 +1,22 @@
+
+# most current docker-compose file version, as of 2020-05-21
+version: '3.3'
+
+services:
+
+  # the preprocess phase
+  jupyter:
+    environment:
+      - PYTHONUNBUFFERED=1
+    # # build:
+    # #   context: ../docker
+    # #   dockerfile: Dockerfile.preprocess
+    # container_name: "jupyter"
+    # image: "jupyter/datascience-notebook:latest"
+    # restart: always
+    # ports:
+    #   - 8888:8888
+  preprocess:
+    volumes:
+      - ../src:/code
+      - ../data/preprocess:/data/preprocess

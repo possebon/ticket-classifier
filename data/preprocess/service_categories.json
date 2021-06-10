@@ -1,0 +1,1072 @@
+[{
+    "id": 304,
+    "name": "Mainroute"
+}, {
+    "id": 305,
+    "name": "Mainroute::Central de Serviço"
+}, {
+    "id": 307,
+    "name": "Mainroute::Central de Serviço::Bloqueio\/Desbloqueio de Usuário"
+}, {
+    "id": 306,
+    "name": "Mainroute::Central de Serviço::Criação\/Alteração de Usuário"
+}, {
+    "id": 345,
+    "name": "Mainroute::Checklist"
+}, {
+    "id": 346,
+    "name": "Mainroute::Checklist::Backup Diário"
+}, {
+    "id": 347,
+    "name": "Mainroute::Checklist::Backup Mensal"
+}, {
+    "id": 350,
+    "name": "Mainroute::CRM"
+}, {
+    "id": 352,
+    "name": "Mainroute::CRM::Bloqueio\/Desbloqueio de Usuário"
+}, {
+    "id": 351,
+    "name": "Mainroute::CRM::Criação\/Alteração de Usuário"
+}, {
+    "id": 348,
+    "name": "Mainroute::E-mail"
+}, {
+    "id": 353,
+    "name": "Mainroute::E-mail::Bloqueio\/Desbloqueio de Usuário"
+}, {
+    "id": 349,
+    "name": "Mainroute::E-mail::Criação\/Alteração de Usuário"
+}, {
+    "id": 341,
+    "name": "Monitoração"
+}, {
+    "id": 342,
+    "name": "Monitoração::Checklist"
+}, {
+    "id": 355,
+    "name": "Plataforma IRIS"
+}, {
+    "id": 356,
+    "name": "Plataforma IRIS::Portfolio"
+}, {
+    "id": 357,
+    "name": "Plataforma IRIS::ServiceDesk"
+}, {
+    "id": 358,
+    "name": "Plataforma IRIS::Watch"
+}, {
+    "id": 1,
+    "name": "Suporte Infraestrutura e Telecomunicações"
+}, {
+    "id": 5,
+    "name": "Suporte Infraestrutura e Telecomunicações::Banco de Dados"
+}, {
+    "id": 172,
+    "name": "Suporte Infraestrutura e Telecomunicações::Banco de Dados::Atualização Patch de Segurança"
+}, {
+    "id": 173,
+    "name": "Suporte Infraestrutura e Telecomunicações::Banco de Dados::Indisponibilidade"
+}, {
+    "id": 174,
+    "name": "Suporte Infraestrutura e Telecomunicações::Banco de Dados::Instalação\/Configuração de Ambiente"
+}, {
+    "id": 175,
+    "name": "Suporte Infraestrutura e Telecomunicações::Banco de Dados::Instalação\/Configuração de Equipamento"
+}, {
+    "id": 6,
+    "name": "Suporte Infraestrutura e Telecomunicações::Banco de Dados::MySQL"
+}, {
+    "id": 10,
+    "name": "Suporte Infraestrutura e Telecomunicações::Banco de Dados::MySQL::Extração de Dados (Query)"
+}, {
+    "id": 14,
+    "name": "Suporte Infraestrutura e Telecomunicações::Banco de Dados::MySQL::Instalação\/Configuração\/Atualização SGBD"
+}, {
+    "id": 8,
+    "name": "Suporte Infraestrutura e Telecomunicações::Banco de Dados::Oracle"
+}, {
+    "id": 11,
+    "name": "Suporte Infraestrutura e Telecomunicações::Banco de Dados::Oracle::Extração de Dados (Query)"
+}, {
+    "id": 15,
+    "name": "Suporte Infraestrutura e Telecomunicações::Banco de Dados::Oracle::Instalação\/Configuração\/Atualização SGBD"
+}, {
+    "id": 9,
+    "name": "Suporte Infraestrutura e Telecomunicações::Banco de Dados::PostgreSQL"
+}, {
+    "id": 12,
+    "name": "Suporte Infraestrutura e Telecomunicações::Banco de Dados::PostgreSQL::Extração de Dados (Query)"
+}, {
+    "id": 16,
+    "name": "Suporte Infraestrutura e Telecomunicações::Banco de Dados::PostgreSQL::Instalação\/Configuração\/Atualização SGBD"
+}, {
+    "id": 7,
+    "name": "Suporte Infraestrutura e Telecomunicações::Banco de Dados::SQL Server"
+}, {
+    "id": 13,
+    "name": "Suporte Infraestrutura e Telecomunicações::Banco de Dados::SQL Server::Extração de Dados (Query)"
+}, {
+    "id": 17,
+    "name": "Suporte Infraestrutura e Telecomunicações::Banco de Dados::SQL Server::Instalação\/Configuração\/Atualização SGBD"
+}, {
+    "id": 20,
+    "name": "Suporte Infraestrutura e Telecomunicações::Gerenciamento Centralizado de Contas e Acesso"
+}, {
+    "id": 92,
+    "name": "Suporte Infraestrutura e Telecomunicações::Gerenciamento Centralizado de Contas e Acesso::Acesso Remoto (VPN)"
+}, {
+    "id": 93,
+    "name": "Suporte Infraestrutura e Telecomunicações::Gerenciamento Centralizado de Contas e Acesso::Acesso Remoto (VPN)::Bloqueio\/Desbloqueio de Usuário"
+}, {
+    "id": 94,
+    "name": "Suporte Infraestrutura e Telecomunicações::Gerenciamento Centralizado de Contas e Acesso::Acesso Remoto (VPN)::Criação\/Exclusão de Acesso"
+}, {
+    "id": 21,
+    "name": "Suporte Infraestrutura e Telecomunicações::Gerenciamento Centralizado de Contas e Acesso::Active Directory"
+}, {
+    "id": 22,
+    "name": "Suporte Infraestrutura e Telecomunicações::Gerenciamento Centralizado de Contas e Acesso::Active Directory::Adição\/Exclusão de Domain Controller"
+}, {
+    "id": 95,
+    "name": "Suporte Infraestrutura e Telecomunicações::Gerenciamento Centralizado de Contas e Acesso::Active Directory::Bloqueio de Usuário"
+}, {
+    "id": 23,
+    "name": "Suporte Infraestrutura e Telecomunicações::Gerenciamento Centralizado de Contas e Acesso::Active Directory::Criação de Site and Service"
+}, {
+    "id": 96,
+    "name": "Suporte Infraestrutura e Telecomunicações::Gerenciamento Centralizado de Contas e Acesso::Active Directory::Criação\/Alteração de Grupo"
+}, {
+    "id": 24,
+    "name": "Suporte Infraestrutura e Telecomunicações::Gerenciamento Centralizado de Contas e Acesso::Active Directory::Criação\/Alteração de Registro DNS"
+}, {
+    "id": 97,
+    "name": "Suporte Infraestrutura e Telecomunicações::Gerenciamento Centralizado de Contas e Acesso::Active Directory::Criação\/Alteração de Usuário"
+}, {
+    "id": 25,
+    "name": "Suporte Infraestrutura e Telecomunicações::Gerenciamento Centralizado de Contas e Acesso::Active Directory::Criação\/Exclusão de Unidade Organizacional (OU)"
+}, {
+    "id": 26,
+    "name": "Suporte Infraestrutura e Telecomunicações::Gerenciamento Centralizado de Contas e Acesso::Active Directory::Criação\/Exclusão\/Alteração de GPO (GROUP POLICY)"
+}, {
+    "id": 98,
+    "name": "Suporte Infraestrutura e Telecomunicações::Gerenciamento Centralizado de Contas e Acesso::Active Directory::Permissão de Acesso"
+}, {
+    "id": 99,
+    "name": "Suporte Infraestrutura e Telecomunicações::Gerenciamento Centralizado de Contas e Acesso::Active Directory::Permissão de Grupo"
+}, {
+    "id": 100,
+    "name": "Suporte Infraestrutura e Telecomunicações::Gerenciamento Centralizado de Contas e Acesso::Active Directory::Reset de Senha"
+}, {
+    "id": 27,
+    "name": "Suporte Infraestrutura e Telecomunicações::Gerenciamento Centralizado de Contas e Acesso::LDAP"
+}, {
+    "id": 101,
+    "name": "Suporte Infraestrutura e Telecomunicações::Gerenciamento Centralizado de Contas e Acesso::LDAP::Atualização de Versão"
+}, {
+    "id": 102,
+    "name": "Suporte Infraestrutura e Telecomunicações::Gerenciamento Centralizado de Contas e Acesso::LDAP::Bloqueio de Usuário"
+}, {
+    "id": 28,
+    "name": "Suporte Infraestrutura e Telecomunicações::Gerenciamento Centralizado de Contas e Acesso::LDAP::Criação\/Alteração de Grupo"
+}, {
+    "id": 103,
+    "name": "Suporte Infraestrutura e Telecomunicações::Gerenciamento Centralizado de Contas e Acesso::LDAP::Criação\/Alteração de Usuário"
+}, {
+    "id": 29,
+    "name": "Suporte Infraestrutura e Telecomunicações::Gerenciamento Centralizado de Contas e Acesso::LDAP::Desenvolvimento de Script"
+}, {
+    "id": 104,
+    "name": "Suporte Infraestrutura e Telecomunicações::Gerenciamento Centralizado de Contas e Acesso::LDAP::Erro\/Falha de Acesso"
+}, {
+    "id": 105,
+    "name": "Suporte Infraestrutura e Telecomunicações::Gerenciamento Centralizado de Contas e Acesso::LDAP::Exclusão de Acesso"
+}, {
+    "id": 30,
+    "name": "Suporte Infraestrutura e Telecomunicações::Gerenciamento Centralizado de Contas e Acesso::LDAP::Instalação\/Configuração"
+}, {
+    "id": 106,
+    "name": "Suporte Infraestrutura e Telecomunicações::Gerenciamento Centralizado de Contas e Acesso::LDAP::Permissão de Acesso"
+}, {
+    "id": 107,
+    "name": "Suporte Infraestrutura e Telecomunicações::Gerenciamento Centralizado de Contas e Acesso::LDAP::Permissão de Grupo"
+}, {
+    "id": 108,
+    "name": "Suporte Infraestrutura e Telecomunicações::Gerenciamento Centralizado de Contas e Acesso::LDAP::Reset de Senha"
+}, {
+    "id": 109,
+    "name": "Suporte Infraestrutura e Telecomunicações::Gerenciamento Centralizado de Contas e Acesso::Usuário Administrador"
+}, {
+    "id": 110,
+    "name": "Suporte Infraestrutura e Telecomunicações::Gerenciamento Centralizado de Contas e Acesso::Usuário Administrador::Bloqueio\/Desbloqueio de SuperUsuário (admin)"
+}, {
+    "id": 111,
+    "name": "Suporte Infraestrutura e Telecomunicações::Gerenciamento Centralizado de Contas e Acesso::Usuário Administrador::Cadastro\/Alteração\/Exclusão de SuperUsuário (admin)"
+}, {
+    "id": 316,
+    "name": "Suporte Infraestrutura e Telecomunicações::ownCloud"
+}, {
+    "id": 317,
+    "name": "Suporte Infraestrutura e Telecomunicações::ownCloud::Configuração Servidor"
+}, {
+    "id": 319,
+    "name": "Suporte Infraestrutura e Telecomunicações::ownCloud::Customização"
+}, {
+    "id": 318,
+    "name": "Suporte Infraestrutura e Telecomunicações::ownCloud::Permissões"
+}, {
+    "id": 31,
+    "name": "Suporte Infraestrutura e Telecomunicações::Redes"
+}, {
+    "id": 59,
+    "name": "Suporte Infraestrutura e Telecomunicações::Redes::Access Point"
+}, {
+    "id": 60,
+    "name": "Suporte Infraestrutura e Telecomunicações::Redes::Access Point::Configuração de Equipamento"
+}, {
+    "id": 112,
+    "name": "Suporte Infraestrutura e Telecomunicações::Redes::Access Point::Falha de Equipamento"
+}, {
+    "id": 61,
+    "name": "Suporte Infraestrutura e Telecomunicações::Redes::Access Point::Instalação\/Desinstalação de Equipamento"
+}, {
+    "id": 66,
+    "name": "Suporte Infraestrutura e Telecomunicações::Redes::Access Point::Remanejamento"
+}, {
+    "id": 67,
+    "name": "Suporte Infraestrutura e Telecomunicações::Redes::Link de Dados"
+}, {
+    "id": 68,
+    "name": "Suporte Infraestrutura e Telecomunicações::Redes::Link de Dados::Ampliação\/Upgrade"
+}, {
+    "id": 113,
+    "name": "Suporte Infraestrutura e Telecomunicações::Redes::Link de Dados::Falha de Equipamento"
+}, {
+    "id": 114,
+    "name": "Suporte Infraestrutura e Telecomunicações::Redes::Link de Dados::Indisponibilidade"
+}, {
+    "id": 115,
+    "name": "Suporte Infraestrutura e Telecomunicações::Redes::Link de Dados::Lentidão"
+}, {
+    "id": 73,
+    "name": "Suporte Infraestrutura e Telecomunicações::Redes::Ponto de Rede"
+}, {
+    "id": 74,
+    "name": "Suporte Infraestrutura e Telecomunicações::Redes::Ponto de Rede::Ativação"
+}, {
+    "id": 117,
+    "name": "Suporte Infraestrutura e Telecomunicações::Redes::Ponto de Rede::Falha de Conectividade"
+}, {
+    "id": 75,
+    "name": "Suporte Infraestrutura e Telecomunicações::Redes::Ponto de Rede::Instalação\/Desinstalação"
+}, {
+    "id": 76,
+    "name": "Suporte Infraestrutura e Telecomunicações::Redes::Ponto de Rede::Manutenção"
+}, {
+    "id": 77,
+    "name": "Suporte Infraestrutura e Telecomunicações::Redes::Ponto de Rede::Remanejamento"
+}, {
+    "id": 80,
+    "name": "Suporte Infraestrutura e Telecomunicações::Redes::Roteador"
+}, {
+    "id": 81,
+    "name": "Suporte Infraestrutura e Telecomunicações::Redes::Roteador::Configuração de Equipamento"
+}, {
+    "id": 86,
+    "name": "Suporte Infraestrutura e Telecomunicações::Redes::Roteador::Instalação\/Desinstalação de Equipamento"
+}, {
+    "id": 118,
+    "name": "Suporte Infraestrutura e Telecomunicações::Redes::Roteador::Remanejamento"
+}, {
+    "id": 119,
+    "name": "Suporte Infraestrutura e Telecomunicações::Redes::Switch"
+}, {
+    "id": 120,
+    "name": "Suporte Infraestrutura e Telecomunicações::Redes::Switch::Configuração de Porta"
+}, {
+    "id": 121,
+    "name": "Suporte Infraestrutura e Telecomunicações::Redes::Switch::Criação\/Alteração\/Exclusão VLAN"
+}, {
+    "id": 122,
+    "name": "Suporte Infraestrutura e Telecomunicações::Redes::Switch::Falha de Equipamento"
+}, {
+    "id": 123,
+    "name": "Suporte Infraestrutura e Telecomunicações::Redes::Switch::Instalação\/Desinstalação de Equipamento"
+}, {
+    "id": 124,
+    "name": "Suporte Infraestrutura e Telecomunicações::Restauração e Armazenamento de Dados"
+}, {
+    "id": 128,
+    "name": "Suporte Infraestrutura e Telecomunicações::Restauração e Armazenamento de Dados::ARCserve"
+}, {
+    "id": 130,
+    "name": "Suporte Infraestrutura e Telecomunicações::Restauração e Armazenamento de Dados::ARCserve::Backup de Dados"
+}, {
+    "id": 133,
+    "name": "Suporte Infraestrutura e Telecomunicações::Restauração e Armazenamento de Dados::ARCserve::Erro\/Falha Rotina (Backup)"
+}, {
+    "id": 137,
+    "name": "Suporte Infraestrutura e Telecomunicações::Restauração e Armazenamento de Dados::ARCserve::Implementação\/Configuração de Rotina (Backup)"
+}, {
+    "id": 141,
+    "name": "Suporte Infraestrutura e Telecomunicações::Restauração e Armazenamento de Dados::ARCserve::Restore de Dados"
+}, {
+    "id": 127,
+    "name": "Suporte Infraestrutura e Telecomunicações::Restauração e Armazenamento de Dados::BackupExec"
+}, {
+    "id": 131,
+    "name": "Suporte Infraestrutura e Telecomunicações::Restauração e Armazenamento de Dados::BackupExec::Backup de Dados"
+}, {
+    "id": 134,
+    "name": "Suporte Infraestrutura e Telecomunicações::Restauração e Armazenamento de Dados::BackupExec::Erro\/Falha Rotina (Backup)"
+}, {
+    "id": 138,
+    "name": "Suporte Infraestrutura e Telecomunicações::Restauração e Armazenamento de Dados::BackupExec::Implementação\/Configuração de Rotina (Backup)"
+}, {
+    "id": 142,
+    "name": "Suporte Infraestrutura e Telecomunicações::Restauração e Armazenamento de Dados::BackupExec::Restore de Dados"
+}, {
+    "id": 125,
+    "name": "Suporte Infraestrutura e Telecomunicações::Restauração e Armazenamento de Dados::Bacula"
+}, {
+    "id": 129,
+    "name": "Suporte Infraestrutura e Telecomunicações::Restauração e Armazenamento de Dados::Bacula::Backup de Dados"
+}, {
+    "id": 135,
+    "name": "Suporte Infraestrutura e Telecomunicações::Restauração e Armazenamento de Dados::Bacula::Erro\/Falha Rotina (Backup)"
+}, {
+    "id": 139,
+    "name": "Suporte Infraestrutura e Telecomunicações::Restauração e Armazenamento de Dados::Bacula::Implementação\/Configuração de Rotina (Backup)"
+}, {
+    "id": 143,
+    "name": "Suporte Infraestrutura e Telecomunicações::Restauração e Armazenamento de Dados::Bacula::Restore de Dados"
+}, {
+    "id": 126,
+    "name": "Suporte Infraestrutura e Telecomunicações::Restauração e Armazenamento de Dados::Veeam"
+}, {
+    "id": 132,
+    "name": "Suporte Infraestrutura e Telecomunicações::Restauração e Armazenamento de Dados::Veeam::Backup de Dados"
+}, {
+    "id": 136,
+    "name": "Suporte Infraestrutura e Telecomunicações::Restauração e Armazenamento de Dados::Veeam::Erro\/Falha Rotina (Backup)"
+}, {
+    "id": 140,
+    "name": "Suporte Infraestrutura e Telecomunicações::Restauração e Armazenamento de Dados::Veeam::Implementação\/Configuração de Rotina (Backup)"
+}, {
+    "id": 144,
+    "name": "Suporte Infraestrutura e Telecomunicações::Restauração e Armazenamento de Dados::Veeam::Restore de Dados"
+}, {
+    "id": 145,
+    "name": "Suporte Infraestrutura e Telecomunicações::Segurança da Informação"
+}, {
+    "id": 146,
+    "name": "Suporte Infraestrutura e Telecomunicações::Segurança da Informação::Acesso Físico Não Autorizado"
+}, {
+    "id": 147,
+    "name": "Suporte Infraestrutura e Telecomunicações::Segurança da Informação::Acesso Lógico Não Autorizado"
+}, {
+    "id": 331,
+    "name": "Suporte Infraestrutura e Telecomunicações::Segurança da Informação::Anti-SPAM"
+}, {
+    "id": 334,
+    "name": "Suporte Infraestrutura e Telecomunicações::Segurança da Informação::Anti-SPAM::Configurar regras"
+}, {
+    "id": 333,
+    "name": "Suporte Infraestrutura e Telecomunicações::Segurança da Informação::Anti-SPAM::Configurar Whitelist \/ Blacklist"
+}, {
+    "id": 336,
+    "name": "Suporte Infraestrutura e Telecomunicações::Segurança da Informação::Anti-SPAM::Falha \/ Erro"
+}, {
+    "id": 335,
+    "name": "Suporte Infraestrutura e Telecomunicações::Segurança da Informação::Anti-SPAM::Orientação sobre utilização"
+}, {
+    "id": 332,
+    "name": "Suporte Infraestrutura e Telecomunicações::Segurança da Informação::Anti-SPAM::Remover Quarentena"
+}, {
+    "id": 148,
+    "name": "Suporte Infraestrutura e Telecomunicações::Segurança da Informação::Bloqueio de Mensagens (SPAM)"
+}, {
+    "id": 149,
+    "name": "Suporte Infraestrutura e Telecomunicações::Segurança da Informação::Erro na Execução de Rotinas\/Processos Normativos"
+}, {
+    "id": 150,
+    "name": "Suporte Infraestrutura e Telecomunicações::Segurança da Informação::Firewall"
+}, {
+    "id": 151,
+    "name": "Suporte Infraestrutura e Telecomunicações::Segurança da Informação::Firewall::Alteração Regra de Acesso"
+}, {
+    "id": 152,
+    "name": "Suporte Infraestrutura e Telecomunicações::Segurança da Informação::Firewall::Criação\/Alteração de NAT"
+}, {
+    "id": 153,
+    "name": "Suporte Infraestrutura e Telecomunicações::Segurança da Informação::Firewall::Criação\/Alteração de Regra"
+}, {
+    "id": 154,
+    "name": "Suporte Infraestrutura e Telecomunicações::Segurança da Informação::Firewall::Exclusão de NAT"
+}, {
+    "id": 155,
+    "name": "Suporte Infraestrutura e Telecomunicações::Segurança da Informação::Firewall::Exclusão Regra de Acesso"
+}, {
+    "id": 156,
+    "name": "Suporte Infraestrutura e Telecomunicações::Segurança da Informação::Firewall::Falha de Equipamento"
+}, {
+    "id": 157,
+    "name": "Suporte Infraestrutura e Telecomunicações::Segurança da Informação::Firewall::Implementação Correção de Vulnerabilidade"
+}, {
+    "id": 158,
+    "name": "Suporte Infraestrutura e Telecomunicações::Segurança da Informação::Firewall::Implementação de Atualização"
+}, {
+    "id": 159,
+    "name": "Suporte Infraestrutura e Telecomunicações::Segurança da Informação::Firewall::Implementação de Controles de Segurança"
+}, {
+    "id": 309,
+    "name": "Suporte Infraestrutura e Telecomunicações::Segurança da Informação::Firewall::Intermitência no acesso"
+}, {
+    "id": 160,
+    "name": "Suporte Infraestrutura e Telecomunicações::Segurança da Informação::Firewall::Validação de Controles"
+}, {
+    "id": 161,
+    "name": "Suporte Infraestrutura e Telecomunicações::Segurança da Informação::Homologação de Softwares\/Sistemas"
+}, {
+    "id": 162,
+    "name": "Suporte Infraestrutura e Telecomunicações::Segurança da Informação::Implementação de Controles de Segurança"
+}, {
+    "id": 163,
+    "name": "Suporte Infraestrutura e Telecomunicações::Segurança da Informação::Infecção Malware"
+}, {
+    "id": 164,
+    "name": "Suporte Infraestrutura e Telecomunicações::Segurança da Informação::Invasão\/Ataque de Ativos"
+}, {
+    "id": 165,
+    "name": "Suporte Infraestrutura e Telecomunicações::Segurança da Informação::Proxy"
+}, {
+    "id": 166,
+    "name": "Suporte Infraestrutura e Telecomunicações::Segurança da Informação::Proxy::Alta Requisição de Acesso"
+}, {
+    "id": 310,
+    "name": "Suporte Infraestrutura e Telecomunicações::Segurança da Informação::Proxy::Baixa performance"
+}, {
+    "id": 167,
+    "name": "Suporte Infraestrutura e Telecomunicações::Segurança da Informação::Proxy::Bloqueio\/Desbloqueio de Usuário"
+}, {
+    "id": 168,
+    "name": "Suporte Infraestrutura e Telecomunicações::Segurança da Informação::Proxy::Configuração"
+}, {
+    "id": 169,
+    "name": "Suporte Infraestrutura e Telecomunicações::Segurança da Informação::Uso Inadequado de Recursos"
+}, {
+    "id": 170,
+    "name": "Suporte Infraestrutura e Telecomunicações::Segurança da Informação::Vazamento de Informações"
+}, {
+    "id": 171,
+    "name": "Suporte Infraestrutura e Telecomunicações::Segurança da Informação::Violação da Política de Segurança"
+}, {
+    "id": 176,
+    "name": "Suporte Infraestrutura e Telecomunicações::Servidor de Arquivos"
+}, {
+    "id": 177,
+    "name": "Suporte Infraestrutura e Telecomunicações::Servidor de Arquivos::Atualização Patch de Segurança"
+}, {
+    "id": 178,
+    "name": "Suporte Infraestrutura e Telecomunicações::Servidor de Arquivos::Indisponibilidade"
+}, {
+    "id": 179,
+    "name": "Suporte Infraestrutura e Telecomunicações::Servidor de Arquivos::Instalação\/Configuração de Ambiente"
+}, {
+    "id": 180,
+    "name": "Suporte Infraestrutura e Telecomunicações::Servidor de Arquivos::Instalação\/Configuração de Equipamento"
+}, {
+    "id": 354,
+    "name": "Suporte Infraestrutura e Telecomunicações::Servidor de Arquivos::Permissão em Compartilhamento"
+}, {
+    "id": 315,
+    "name": "Suporte Infraestrutura e Telecomunicações::Servidor de Arquivos::Renomear Pasta \/ Compartilhamento"
+}, {
+    "id": 181,
+    "name": "Suporte Infraestrutura e Telecomunicações::Servidor de E-mail"
+}, {
+    "id": 182,
+    "name": "Suporte Infraestrutura e Telecomunicações::Servidor de E-mail::Atualização Patch de Segurança"
+}, {
+    "id": 183,
+    "name": "Suporte Infraestrutura e Telecomunicações::Servidor de E-mail::Indisponibilidade"
+}, {
+    "id": 184,
+    "name": "Suporte Infraestrutura e Telecomunicações::Servidor de E-mail::Instalação\/Configuração de Ambiente"
+}, {
+    "id": 185,
+    "name": "Suporte Infraestrutura e Telecomunicações::Servidor de E-mail::Instalação\/Configuração de Equipamento"
+}, {
+    "id": 313,
+    "name": "Suporte Infraestrutura e Telecomunicações::Servidor de E-mail::Relatórios"
+}, {
+    "id": 186,
+    "name": "Suporte Infraestrutura e Telecomunicações::Servidor DNS"
+}, {
+    "id": 187,
+    "name": "Suporte Infraestrutura e Telecomunicações::Servidor DNS::Atualização Patch de Segurança"
+}, {
+    "id": 188,
+    "name": "Suporte Infraestrutura e Telecomunicações::Servidor DNS::Indisponibilidade"
+}, {
+    "id": 189,
+    "name": "Suporte Infraestrutura e Telecomunicações::Servidor DNS::Instalação\/Configuração de Ambiente"
+}, {
+    "id": 190,
+    "name": "Suporte Infraestrutura e Telecomunicações::Servidor DNS::Instalação\/Configuração de Equipamento"
+}, {
+    "id": 191,
+    "name": "Suporte Infraestrutura e Telecomunicações::Servidor Web"
+}, {
+    "id": 192,
+    "name": "Suporte Infraestrutura e Telecomunicações::Servidor Web::Apache"
+}, {
+    "id": 194,
+    "name": "Suporte Infraestrutura e Telecomunicações::Servidor Web::Apache::Atualização Patch de Segurança"
+}, {
+    "id": 196,
+    "name": "Suporte Infraestrutura e Telecomunicações::Servidor Web::Apache::Implementação Controles de Segurança"
+}, {
+    "id": 198,
+    "name": "Suporte Infraestrutura e Telecomunicações::Servidor Web::Apache::Implementação Correção de Vulnerabilidade"
+}, {
+    "id": 200,
+    "name": "Suporte Infraestrutura e Telecomunicações::Servidor Web::Apache::Implementação de Atualizações"
+}, {
+    "id": 202,
+    "name": "Suporte Infraestrutura e Telecomunicações::Servidor Web::Apache::Indisponibilidade"
+}, {
+    "id": 204,
+    "name": "Suporte Infraestrutura e Telecomunicações::Servidor Web::Apache::Instalação\/Configuração de Ambiente"
+}, {
+    "id": 206,
+    "name": "Suporte Infraestrutura e Telecomunicações::Servidor Web::Apache::Permissão de Acesso (SSH)"
+}, {
+    "id": 207,
+    "name": "Suporte Infraestrutura e Telecomunicações::Servidor Web::Apache::Validação de Controles"
+}, {
+    "id": 193,
+    "name": "Suporte Infraestrutura e Telecomunicações::Servidor Web::IIS"
+}, {
+    "id": 195,
+    "name": "Suporte Infraestrutura e Telecomunicações::Servidor Web::IIS::Atualização Patch de Segurança"
+}, {
+    "id": 197,
+    "name": "Suporte Infraestrutura e Telecomunicações::Servidor Web::IIS::Implementação Controles de Segurança"
+}, {
+    "id": 199,
+    "name": "Suporte Infraestrutura e Telecomunicações::Servidor Web::IIS::Implementação Correção de Vulnerabilidade"
+}, {
+    "id": 201,
+    "name": "Suporte Infraestrutura e Telecomunicações::Servidor Web::IIS::Implementação de Atualizações"
+}, {
+    "id": 203,
+    "name": "Suporte Infraestrutura e Telecomunicações::Servidor Web::IIS::Indisponibilidade"
+}, {
+    "id": 205,
+    "name": "Suporte Infraestrutura e Telecomunicações::Servidor Web::IIS::Instalação\/Configuração de Ambiente"
+}, {
+    "id": 208,
+    "name": "Suporte Infraestrutura e Telecomunicações::Servidor Web::IIS::Validação de Controles"
+}, {
+    "id": 337,
+    "name": "Suporte Infraestrutura e Telecomunicações::Storage"
+}, {
+    "id": 339,
+    "name": "Suporte Infraestrutura e Telecomunicações::Storage::Falha \/ Erro"
+}, {
+    "id": 338,
+    "name": "Suporte Infraestrutura e Telecomunicações::Storage::Instalação \/ Configuração"
+}, {
+    "id": 209,
+    "name": "Suporte Infraestrutura e Telecomunicações::Telefonia"
+}, {
+    "id": 210,
+    "name": "Suporte Infraestrutura e Telecomunicações::Telefonia::Aparelho Telefônico"
+}, {
+    "id": 213,
+    "name": "Suporte Infraestrutura e Telecomunicações::Telefonia::Aparelho Telefônico::Falha de Equipamento"
+}, {
+    "id": 214,
+    "name": "Suporte Infraestrutura e Telecomunicações::Telefonia::Aparelho Telefônico::Instalação\/Desinstalação de Equipamento"
+}, {
+    "id": 211,
+    "name": "Suporte Infraestrutura e Telecomunicações::Telefonia::Linha"
+}, {
+    "id": 215,
+    "name": "Suporte Infraestrutura e Telecomunicações::Telefonia::Linha::Bloqueio\/Desbloqueio de Chamadas"
+}, {
+    "id": 217,
+    "name": "Suporte Infraestrutura e Telecomunicações::Telefonia::Linha::Bloqueio\/Desbloqueio de Linha"
+}, {
+    "id": 218,
+    "name": "Suporte Infraestrutura e Telecomunicações::Telefonia::Linha::Falha"
+}, {
+    "id": 219,
+    "name": "Suporte Infraestrutura e Telecomunicações::Telefonia::Linha::Instalação de Linha (Física)"
+}, {
+    "id": 220,
+    "name": "Suporte Infraestrutura e Telecomunicações::Telefonia::Linha::Não Realiza\/Recebe Ligações"
+}, {
+    "id": 221,
+    "name": "Suporte Infraestrutura e Telecomunicações::Telefonia::Linha::Remanejamento"
+}, {
+    "id": 222,
+    "name": "Suporte Infraestrutura e Telecomunicações::Telefonia::Linha::Ruído\/Interferência"
+}, {
+    "id": 212,
+    "name": "Suporte Infraestrutura e Telecomunicações::Telefonia::VoIP"
+}, {
+    "id": 216,
+    "name": "Suporte Infraestrutura e Telecomunicações::Telefonia::VoIP::Bloqueio\/Desbloqueio de Chamadas"
+}, {
+    "id": 224,
+    "name": "Suporte Infraestrutura e Telecomunicações::Telefonia::VoIP::Bloqueio\/Desbloqueio\/Reset de Senha"
+}, {
+    "id": 225,
+    "name": "Suporte Infraestrutura e Telecomunicações::Telefonia::VoIP::Configuração"
+}, {
+    "id": 226,
+    "name": "Suporte Infraestrutura e Telecomunicações::Telefonia::VoIP::Criação de Ramal"
+}, {
+    "id": 340,
+    "name": "Suporte Infraestrutura e Telecomunicações::Telefonia::VoIP::Gravações"
+}, {
+    "id": 227,
+    "name": "Suporte Infraestrutura e Telecomunicações::Telefonia::VoIP::Inclusão de Grupo de Captura\/Busca"
+}, {
+    "id": 308,
+    "name": "Suporte Infraestrutura e Telecomunicações::Telefonia::VoIP::Ligação caindo"
+}, {
+    "id": 228,
+    "name": "Suporte Infraestrutura e Telecomunicações::Telefonia::VoIP::Mudo"
+}, {
+    "id": 229,
+    "name": "Suporte Infraestrutura e Telecomunicações::Telefonia::VoIP::Não Realiza\/Recebe Ligações"
+}, {
+    "id": 344,
+    "name": "Suporte Infraestrutura e Telecomunicações::Telefonia::VoIP::Ramal sem registro"
+}, {
+    "id": 230,
+    "name": "Suporte Infraestrutura e Telecomunicações::Telefonia::VoIP::Remanejamento de Ramal"
+}, {
+    "id": 223,
+    "name": "Suporte Infraestrutura e Telecomunicações::Telefonia::VoIP::Ruído\/Interferência"
+}, {
+    "id": 320,
+    "name": "Suporte Infraestrutura e Telecomunicações::Virtualização"
+}, {
+    "id": 322,
+    "name": "Suporte Infraestrutura e Telecomunicações::Virtualização::Hyper-V"
+}, {
+    "id": 330,
+    "name": "Suporte Infraestrutura e Telecomunicações::Virtualização::Hyper-V::Instalação\/Atualização de Guest Services"
+}, {
+    "id": 327,
+    "name": "Suporte Infraestrutura e Telecomunicações::Virtualização::Hyper-V::Instalação\/Configuração de DSR"
+}, {
+    "id": 323,
+    "name": "Suporte Infraestrutura e Telecomunicações::Virtualização::Hyper-V::Instalação\/Configuração de Host"
+}, {
+    "id": 325,
+    "name": "Suporte Infraestrutura e Telecomunicações::Virtualização::Hyper-V::Instalação\/Configuração de VM"
+}, {
+    "id": 321,
+    "name": "Suporte Infraestrutura e Telecomunicações::Virtualização::VMWare"
+}, {
+    "id": 329,
+    "name": "Suporte Infraestrutura e Telecomunicações::Virtualização::VMWare::Instalação\/Atualização de VMWare Tools"
+}, {
+    "id": 328,
+    "name": "Suporte Infraestrutura e Telecomunicações::Virtualização::VMWare::Instalação\/Configuração de DSR"
+}, {
+    "id": 324,
+    "name": "Suporte Infraestrutura e Telecomunicações::Virtualização::VMWare::Instalação\/Configuração de Host"
+}, {
+    "id": 326,
+    "name": "Suporte Infraestrutura e Telecomunicações::Virtualização::VMWare::Instalação\/Configuração de VM"
+}, {
+    "id": 3,
+    "name": "Suporte Microcomputador (Estação de Trabalho)"
+}, {
+    "id": 69,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Aplicativos \/ Softwares"
+}, {
+    "id": 82,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Aplicativos \/ Softwares::Antivirus"
+}, {
+    "id": 87,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Aplicativos \/ Softwares::Antivirus::Atualização de Versão"
+}, {
+    "id": 231,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Aplicativos \/ Softwares::Antivirus::Bloqueio\/Desbloqueio de SPAM"
+}, {
+    "id": 84,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Aplicativos \/ Softwares::Antivirus::Erro de Atualização"
+}, {
+    "id": 83,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Aplicativos \/ Softwares::Antivirus::Execução de Varredura"
+}, {
+    "id": 85,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Aplicativos \/ Softwares::Antivirus::Falha de Execução"
+}, {
+    "id": 88,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Aplicativos \/ Softwares::Antivirus::Instalação\/Desinstalação de Aplicativo"
+}, {
+    "id": 232,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Aplicativos \/ Softwares::Antivirus::Orientação de Uso"
+}, {
+    "id": 78,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Aplicativos \/ Softwares::Automação de Escritório"
+}, {
+    "id": 233,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Aplicativos \/ Softwares::Automação de Escritório::Atualização de Patch"
+}, {
+    "id": 234,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Aplicativos \/ Softwares::Automação de Escritório::Configuração"
+}, {
+    "id": 79,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Aplicativos \/ Softwares::Automação de Escritório::Erro\/Falha de Funcionamento"
+}, {
+    "id": 235,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Aplicativos \/ Softwares::Automação de Escritório::Instalação\/Desinstalação\/Atualização de Versão"
+}, {
+    "id": 70,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Aplicativos \/ Softwares::E-mail"
+}, {
+    "id": 236,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Aplicativos \/ Softwares::E-mail::Atualização de Versão"
+}, {
+    "id": 89,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Aplicativos \/ Softwares::E-mail::Bloqueio\/Desbloqueio de SPAM"
+}, {
+    "id": 237,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Aplicativos \/ Softwares::E-mail::Configuração"
+}, {
+    "id": 71,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Aplicativos \/ Softwares::E-mail::Falha de Acesso"
+}, {
+    "id": 72,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Aplicativos \/ Softwares::E-mail::Falha de Envio\/Recebimento"
+}, {
+    "id": 238,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Aplicativos \/ Softwares::E-mail::Manutenção de Regra\/Grupo"
+}, {
+    "id": 239,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Aplicativos \/ Softwares::E-mail::Orientação de Uso"
+}, {
+    "id": 63,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Backup"
+}, {
+    "id": 65,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Backup::Gerar \/ Restaurar Imagem (iso)"
+}, {
+    "id": 64,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Backup::Gerar\/Restaurar Backup de Arquivos"
+}, {
+    "id": 90,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Hardware"
+}, {
+    "id": 251,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Hardware::Configuração de Áudio"
+}, {
+    "id": 252,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Hardware::Configuração de Teclado\/Mouse"
+}, {
+    "id": 253,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Hardware::Configuração de Vídeo (Monitor)"
+}, {
+    "id": 254,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Hardware::Configuração Drive CD\/DVD"
+}, {
+    "id": 250,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Hardware::Dispositivo não Reconhecido"
+}, {
+    "id": 91,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Hardware::Erro \/ Falha de funcionamento"
+}, {
+    "id": 247,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Hardware::Erro Conectividade (Rede)"
+}, {
+    "id": 248,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Hardware::Erro Conexão Bluethoot"
+}, {
+    "id": 249,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Hardware::Erro Conexão Wireless"
+}, {
+    "id": 240,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Hardware::Erro de Áudio"
+}, {
+    "id": 244,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Hardware::Erro de Vídeo (Monitor)"
+}, {
+    "id": 241,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Hardware::Erro Drive CD\/DVD"
+}, {
+    "id": 245,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Hardware::Estabilizador\/Nobreak não Liga"
+}, {
+    "id": 246,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Hardware::Falha de Teclado\/Mouse"
+}, {
+    "id": 242,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Hardware::Lentidão\/Travamento"
+}, {
+    "id": 243,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Hardware::Não Liga\/Reiniciando"
+}, {
+    "id": 255,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Hardware::Upgrade de Hardware"
+}, {
+    "id": 51,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Navegação Web"
+}, {
+    "id": 56,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Navegação Web::Atualização de Navegador"
+}, {
+    "id": 62,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Navegação Web::Bloqueio\/Desbloqueio de Acesso"
+}, {
+    "id": 256,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Navegação Web::Configuração de Navegador (Browse)"
+}, {
+    "id": 58,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Navegação Web::Erro ao Carregar Página (Site)"
+}, {
+    "id": 57,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Navegação Web::Erro de Acesso (Site)"
+}, {
+    "id": 54,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Navegação Web::Erro de Certificado Digital\/Plugin"
+}, {
+    "id": 52,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Navegação Web::Indisponibilidade"
+}, {
+    "id": 55,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Navegação Web::Instalação Certificado Digital\/Plugin"
+}, {
+    "id": 53,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Navegação Web::Lentidão"
+}, {
+    "id": 257,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Navegação Web::Orientação de Uso"
+}, {
+    "id": 258,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Outros"
+}, {
+    "id": 259,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Outros::Configuração de Domínio"
+}, {
+    "id": 260,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Outros::Disponibilização de Estação de Trabalho"
+}, {
+    "id": 261,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Outros::Mapear Unidade de Rede"
+}, {
+    "id": 262,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Outros::Particionamento de Disco"
+}, {
+    "id": 263,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Outros::Remanejamento de Equipamento"
+}, {
+    "id": 314,
+    "name": "Suporte Microcomputador (Estação de Trabalho)::Perfil de Usuário"
+}, {
+    "id": 2,
+    "name": "Suporte Microinformática"
+}, {
+    "id": 47,
+    "name": "Suporte Microinformática::Datashow"
+}, {
+    "id": 50,
+    "name": "Suporte Microinformática::Datashow::Dificuldades de Visualização"
+}, {
+    "id": 48,
+    "name": "Suporte Microinformática::Datashow::Erro de Vídeo\/Som"
+}, {
+    "id": 264,
+    "name": "Suporte Microinformática::Datashow::Instalação\/Desinstalação de Equipamento"
+}, {
+    "id": 49,
+    "name": "Suporte Microinformática::Datashow::Não Liga"
+}, {
+    "id": 18,
+    "name": "Suporte Microinformática::Impressora \/ Scanner"
+}, {
+    "id": 32,
+    "name": "Suporte Microinformática::Impressora \/ Scanner::Atolamento de Papel"
+}, {
+    "id": 19,
+    "name": "Suporte Microinformática::Impressora \/ Scanner::Cadastro\/Alteração\/Reset de Senha"
+}, {
+    "id": 265,
+    "name": "Suporte Microinformática::Impressora \/ Scanner::Configuração de Equipamento"
+}, {
+    "id": 266,
+    "name": "Suporte Microinformática::Impressora \/ Scanner::Configurar Compartilhamento de Impressora"
+}, {
+    "id": 40,
+    "name": "Suporte Microinformática::Impressora \/ Scanner::Erro ao Digitalizar"
+}, {
+    "id": 37,
+    "name": "Suporte Microinformática::Impressora \/ Scanner::Erro no Painel de Controle"
+}, {
+    "id": 39,
+    "name": "Suporte Microinformática::Impressora \/ Scanner::Erro\/Falha de Autenticação"
+}, {
+    "id": 36,
+    "name": "Suporte Microinformática::Impressora \/ Scanner::Falha Alimentação de Papel"
+}, {
+    "id": 33,
+    "name": "Suporte Microinformática::Impressora \/ Scanner::Falta de Tinta"
+}, {
+    "id": 267,
+    "name": "Suporte Microinformática::Impressora \/ Scanner::Instalação\/Desinstalação de Equipamento"
+}, {
+    "id": 268,
+    "name": "Suporte Microinformática::Impressora \/ Scanner::Instalar\/Remover Drive"
+}, {
+    "id": 41,
+    "name": "Suporte Microinformática::Impressora \/ Scanner::Lentidão\/Travamento"
+}, {
+    "id": 34,
+    "name": "Suporte Microinformática::Impressora \/ Scanner::Não Imprime"
+}, {
+    "id": 35,
+    "name": "Suporte Microinformática::Impressora \/ Scanner::Não Liga"
+}, {
+    "id": 42,
+    "name": "Suporte Microinformática::Impressora \/ Scanner::Não Reconhecido"
+}, {
+    "id": 269,
+    "name": "Suporte Microinformática::Impressora \/ Scanner::Orientação de Uso"
+}, {
+    "id": 270,
+    "name": "Suporte Microinformática::Impressora \/ Scanner::Remanejamento de Equipamento"
+}, {
+    "id": 38,
+    "name": "Suporte Microinformática::Impressora \/ Scanner::Remover Fila de Impressão"
+}, {
+    "id": 43,
+    "name": "Suporte Microinformática::Nobreak"
+}, {
+    "id": 46,
+    "name": "Suporte Microinformática::Nobreak::Falha Carregamento de Bateria"
+}, {
+    "id": 271,
+    "name": "Suporte Microinformática::Nobreak::Instalação\/Desinstalação\/Configuração de Equipamento"
+}, {
+    "id": 45,
+    "name": "Suporte Microinformática::Nobreak::Não Liga"
+}, {
+    "id": 272,
+    "name": "Suporte Microinformática::Nobreak::Remanejamento de Equipamento"
+}, {
+    "id": 44,
+    "name": "Suporte Microinformática::Nobreak::Ruído"
+}, {
+    "id": 4,
+    "name": "Suporte Sistemas Administrativos"
+}, {
+    "id": 273,
+    "name": "Suporte Sistemas Administrativos::Controle de Acesso (Leitor Biométrico)"
+}, {
+    "id": 274,
+    "name": "Suporte Sistemas Administrativos::Controle de Acesso (Leitor Biométrico)::Cadastro\/Exclusão de Usuário"
+}, {
+    "id": 275,
+    "name": "Suporte Sistemas Administrativos::Controle de Acesso (Leitor Biométrico)::Configuração de Equipamento"
+}, {
+    "id": 276,
+    "name": "Suporte Sistemas Administrativos::Controle de Acesso (Leitor Biométrico)::Erro\/Falha de Equipamento"
+}, {
+    "id": 277,
+    "name": "Suporte Sistemas Administrativos::Controle de Acesso (Leitor Biométrico)::Instalação\/Desinstalação de Equipamento"
+}, {
+    "id": 278,
+    "name": "Suporte Sistemas Administrativos::Controle de Ponto"
+}, {
+    "id": 279,
+    "name": "Suporte Sistemas Administrativos::Controle de Ponto::Cadastro\/Exclusão de Usuário"
+}, {
+    "id": 280,
+    "name": "Suporte Sistemas Administrativos::Controle de Ponto::Configuração de Equipamento"
+}, {
+    "id": 281,
+    "name": "Suporte Sistemas Administrativos::Controle de Ponto::Erro\/Falha de Equipamento"
+}, {
+    "id": 282,
+    "name": "Suporte Sistemas Administrativos::Controle de Ponto::Instalação\/Desinstalação de Equipamento"
+}, {
+    "id": 283,
+    "name": "Suporte Sistemas Administrativos::CRM"
+}, {
+    "id": 284,
+    "name": "Suporte Sistemas Administrativos::CRM::Atualização de Versão"
+}, {
+    "id": 285,
+    "name": "Suporte Sistemas Administrativos::CRM::Criação de Nova Funcionalidade"
+}, {
+    "id": 286,
+    "name": "Suporte Sistemas Administrativos::CRM::Criação\/Geração de Relatório"
+}, {
+    "id": 287,
+    "name": "Suporte Sistemas Administrativos::CRM::Erro de Funcionamento"
+}, {
+    "id": 288,
+    "name": "Suporte Sistemas Administrativos::CRM::Erro\/Falha de Acesso"
+}, {
+    "id": 289,
+    "name": "Suporte Sistemas Administrativos::CRM::Indisponibilidade"
+}, {
+    "id": 290,
+    "name": "Suporte Sistemas Administrativos::CRM::Lentidão\/Travamento"
+}, {
+    "id": 291,
+    "name": "Suporte Sistemas Administrativos::CRM::Melhoria de Funcionalidade Existente"
+}, {
+    "id": 292,
+    "name": "Suporte Sistemas Administrativos::CRM::Orientação de Uso"
+}, {
+    "id": 293,
+    "name": "Suporte Sistemas Administrativos::ERP"
+}, {
+    "id": 294,
+    "name": "Suporte Sistemas Administrativos::ERP::Atualização de Versão"
+}, {
+    "id": 295,
+    "name": "Suporte Sistemas Administrativos::ERP::Criação de Nova Funcionalidade"
+}, {
+    "id": 296,
+    "name": "Suporte Sistemas Administrativos::ERP::Criação\/Geração de Relatório"
+}, {
+    "id": 297,
+    "name": "Suporte Sistemas Administrativos::ERP::Erro de Funcionamento"
+}, {
+    "id": 298,
+    "name": "Suporte Sistemas Administrativos::ERP::Erro\/Falha de Acesso"
+}, {
+    "id": 299,
+    "name": "Suporte Sistemas Administrativos::ERP::Indisponibilidade"
+}, {
+    "id": 300,
+    "name": "Suporte Sistemas Administrativos::ERP::Lentidão\/Travamento"
+}, {
+    "id": 301,
+    "name": "Suporte Sistemas Administrativos::ERP::Melhoria de Funcionalidade Existente"
+}, {
+    "id": 302,
+    "name": "Suporte Sistemas Administrativos::ERP::Orientação de Uso"
+}, {
+    "id": 303,
+    "name": "Suporte Sistemas Administrativos::Sistema de Câmeras"
+}, {
+    "id": 311,
+    "name": "Suporte Sistemas Administrativos::Website"
+}, {
+    "id": 343,
+    "name": "Suporte Sistemas Administrativos::Website::Indisponibilidade"
+}, {
+    "id": 312,
+    "name": "Suporte Sistemas Administrativos::Website::Publicação de Conteúdo"
+}]

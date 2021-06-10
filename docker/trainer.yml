@@ -1,0 +1,107 @@
+
+# most current docker-compose file version, as of 2020-05-21
+version: '3.3'
+
+services:
+
+  # the preprocess phase
+  jupyter:
+    environment:
+      - PYTHONUNBUFFERED=1
+    # build:
+    #   context: ../docker
+    #   dockerfile: Dockerfile.preprocess
+    container_name: "jupyter"
+    image: "jupyter/datascience-notebook:latest"
+    restart: always
+    ports:
+      - 8888:8888
+  preprocess:
+    environment:
+      - PYTHONUNBUFFERED=1
+      - MYSQL_HOST= ${DATABASE_HOST}
+      - MYSQL_DATABASE= ${DATABASE_NAME}
+      - MYSQL_USER= ${DATABASE_USER}
+      - MYSQL_PASSWORD=${DATABASE_PASSWORD}
+    build:
+      context: .
+      dockerfile: Dockerfile.preprocess
+    container_name: "preprocess"
+    image: "preprocess:latest"
+    restart: always
+    # args:
+    # - 'DATABASE_HOST=${DATABASE_HOST}'
+    # - 'DATABASE_NAME=${DATABASE_NAME}'
+    # - 'DATABASE_USER=${DATABASE_USER}'
+    # - 'DATABASE_PASSWORD=${DATABASE_PASSWORD}'
+
+    # volumes:
+    #   - mariadb_data:/var/lib/mysql
+
+    # # do not expose the mysql default port to the docker host host
+    # # use 'docker exec -it otobo_db_1 mysql ...' when access is needed
+    # # because the the otobo DB user is allowed for the complete Docker network
+    # # ports:
+    #   #- "5001:3306"
+
+    # # Set the db root password which has to be entered when running otobo/installer.pl.
+    # # The passwort is secrect and can be stored in the file .env.
+    # # The content of the .env file is something like:
+    # # OTOBO_DB_ROOT_PASSWORD=otobo_root
+    # environment:
+    #   MYSQL_ROOT_PASSWORD: ${OTOBO_DB_ROOT_PASSWORD:?err}
+    # command: --max-allowed-packet=68157440 --character-set-server=utf8mb4 --collation-server=utf8mb4_unicode_ci --innodb-log-file-size=268435456
+
+  # a container running the trainer
+  # trainer:
+  #   # The services 'web' and 'daemon' use the same image.
+  #   environment:
+  #     - PYTHONUNBUFFERED=1
+  #   build:
+  #     context: ./look-ahead-rl
+  #     dockerfile: Dockerfile
+  #   container_name: "lookahead"
+  #   image: "lookahead:latest"
+    # cap_drop:
+    #     - ALL
+    # #cap_add:
+    # depends_on:
+    #   - db
+    #   - elastic
+    #   - redis
+    # restart: always
+    # # The HTTP port might be specified in a docker-compose extension file, e.g. docker-compose/otobo-override-http.yml.
+    # # For HTTPS no HTTP port is exposed.
+    # #ports:
+    # #    - "80:5000"
+    # volumes:
+    #   - opt_otobo:/opt/otobo
+    # command: web
+
+  # a container running the OTOBO daemon
+  model:
+    # The services 'web' and 'daemon' use the same image.
+    image: python:3.9.5-slim
+    # cap_drop:
+    #     - ALL
+    # #cap_add:
+    # depends_on:
+    #   - web
+    # restart: always
+    # volumes:
+    #   - opt_otobo:/opt/otobo
+    # command: daemon
+
+  # a container running the OTOBO daemon
+  classifier:
+    # The services 'web' and 'daemon' use the same image.
+    image: python:3.9.5-slim
+    # cap_drop:
+    #     - ALL
+    # #cap_add:
+    # depends_on:
+    #   - web
+    # restart: always
+    # volumes:
+    #   - opt_otobo:/opt/otobo
+    # command: daemon
