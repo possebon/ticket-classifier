@@ -37,9 +37,13 @@ RUN mkdir /data && mkdir /data/preprocess
 # install dependencies
 RUN pip install -r requirements.txt
 
+# Additional modules
+RUN python -c 'import nltk; nltk.download("mac_morpho")' && python -c 'import nltk; nltk.download("stopwords")' \
+  && python -c 'import nltk; nltk.download("punkt")'
+
 # copy the content of the local src directory to the working directory
 #COPY ../../src/. .
-COPY ["tmp/", "/code"]
+COPY ["tmp/src/", "/code"]
 
 
 
