@@ -10,7 +10,7 @@ provide an incident classifier in Brazilian Portuguese having speech as input us
 automatic speech recognition (gASR) like Amazon Alexa and Google Home.
 
 # Keywords
-incident classification, machine learning, natural language processing, text classification, automatic speech recognition.
+incident classification, machine learning, natural language processing, text classification, automatic speech recognition.
 
 # Running the research environment
 
