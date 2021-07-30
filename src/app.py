@@ -42,6 +42,8 @@ stopwords = set(stopwords.words('portuguese'))
 
 stopwords = [strip_accents(word) for word in stopwords]
 
+metrics = []
+
 # Start process the ticket data
 with open('/data/preprocess/tickets_labeled.json', 'r') as file:
     data = json.load(file)
@@ -51,7 +53,7 @@ with open('/data/preprocess/tickets_labeled.json', 'r') as file:
     for item in data:
 
         test_str = item['article_body'].lower()
-
+        metrics.append({'original_word_count': len(test_str.split()), 'after_word_count': 0})
         test_str = strip_accents(test_str)
 
         # Remove \xa0
@@ -124,6 +126,8 @@ with open('/data/preprocess/tickets_labeled.json', 'r') as file:
         irrelevant_terms = ['aguardo', 'obrigado', 'obrigada','alegre', 'bairro','lombroso','cj', 'rs',
             'desde','cipriani','mainroute','technology','business','facta', 'obs', 'ola', 'oi']
         result = [element for element in result_uinque if element not in irrelevant_terms]
-        
 
-        print('Prepare data phase completed.')
+        metrics[-1]['after_word_count'] = len(result)     
+
+
+    print('Prepare data phase completed.')
